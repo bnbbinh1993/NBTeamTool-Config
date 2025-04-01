@@ -2,18 +2,51 @@
     "version": "1.0.0",
     "tools": [
         {
+            "id": 1,
             "name": "Tool 1",
-            "description": "Test 1",
+            "status": "Test 1",
             "url": "nbteam/test/test.js"
         },
         {
+            "id": 1,
             "name": "Tool 2",
-            "description": "Test 2",
+            "status": "Test 2",
             "url": "nbteam/test/test.js"
         },
         {
+            "id": 1,
             "name": "Tool 3",
-            "description": "Test 3",
+            "status": "Test 3",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "id": 1,
+            "name": "Tool 4",
+            "status": "Test 4",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "id": 1,
+            "name": "Tool 5",
+            "status": "Test 5",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "id": 1,
+            "name": "Tool 6",
+            "status": "Test 6",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "id": 1,
+            "name": "Tool 7",
+            "status": "Test 7",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "id": 1,
+            "name": "Tool 8",
+            "status": "Test 8",
             "url": "nbteam/test/test.js"
         }
     ]
