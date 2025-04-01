@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "tools": [
+        {
+            "name": "Tool 1",
+            "description": "Test 1",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "name": "Tool 2",
+            "description": "Test 2",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "name": "Tool 3",
+            "description": "Test 3",
+            "url": "nbteam/test/test.js"
+        }
+    ]
+}
