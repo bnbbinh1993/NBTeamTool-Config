@@ -4,7 +4,7 @@
     {
       "id": "tool1",
       "name": "Tool 1",
-      "url": "tools/mega",
+      "url": "tools/test",
       "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/test.rar",
       "type": "nodejs",
       "status": "active",
