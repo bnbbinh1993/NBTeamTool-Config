@@ -1,9 +1,53 @@
 {
     "version": "1.0.0",
     "tools": [
-        { "id": "1", "name": "Nodejs Tool 1", "status": "Hoạt động", "image": "assets/node1.jpg", "data": ["node1", "node2"], "type": "nodejs" },
-        { "id": "2", "name": "Nodejs Tool 2", "status": "Đang phát triển", "image": "assets/node2.jpg", "data": ["node3", "node4"], "type": "nodejs" },
-        { "id": "3", "name": "Script Tool 1", "status": "Hoạt động", "image": "assets/script1.jpg", "data": ["script1", "script2"], "type": "script" },
-        { "id": "4", "name": "Script Tool 2", "status": "Đang phát triển", "image": "assets/script2.jpg", "data": ["script3", "script4"], "type": "script" }
+        {
+            "id": "1",
+            "name": "Nodejs Tool 1",
+            "status": 1,
+            "image": "assets/node1.jpg",
+            "data": [
+                "node1",
+                "node2"
+            ],
+            "type": "nodejs",
+            "url": "nbteam/test/test.js"
+        },
+        {
+            "id": "2",
+            "name": "Nodejs Tool 2",
+            "status": 1,
+            "image": "assets/node2.jpg",
+            "data": [
+                "node3",
+                "node4"
+            ],
+            "type": "nodejs",
+            "url": "nbteam/mega/megaETH.js"
+        },
+        {
+            "id": "3",
+            "name": "Script Tool 1",
+            "status": 1,
+            "image": "assets/script1.jpg",
+            "data": [
+                "script1",
+                "script2"
+            ],
+            "type": "script",
+            "url": "nbteam/mega/megaETH.js"
+        },
+        {
+            "id": "4",
+            "name": "Script Tool 2",
+            "status": 1,
+            "image": "assets/script2.jpg",
+            "data": [
+                "script3",
+                "script4"
+            ],
+            "type": "script",
+            "url": "nbteam/mega/megaETH.js"
+        }
     ]
 }
