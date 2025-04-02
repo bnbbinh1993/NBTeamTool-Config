@@ -2,8 +2,6 @@
     "version": "1.0.0",
     "tools": [
         { "id": "1", "name": "Faucet ETH", "status": "Đang phát triển", "image": "assets/ntd.jpg", "data": ["item1", "item2", "item3"] },
-        { "id": "2", "name": "HOT", "status": "Đang phát triển", "image": "assets/ntd.jpg", "data": ["eth1", "eth2"] },
-        { "id": "3", "name": "TEST NODE", "status": "Đang phát triển", "image": "assets/ntd.jpg", "data": ["chicken1", "chicken2", "chicken3"] },
-        { "id": "4", "name": "NBTeamTool", "status": "Đang phát triển", "image": "assets/ntd.jpg", "data": ["farm1", "farm2"] }
+        { "id": "2", "name": "HOT", "status": "Đang phát triển", "image": "assets/ntd.jpg", "data": ["eth1", "eth2"] }
     ]
 }
