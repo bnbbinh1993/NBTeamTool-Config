@@ -23,7 +23,7 @@
                 "node4"
             ],
             "type": "nodejs",
-            "url": "nbteam/mega/megaETH.js"
+            "url": "nbteam/mega/bnb.js"
         },
         {
             "id": "3",
