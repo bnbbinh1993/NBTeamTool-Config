@@ -10,7 +10,8 @@
       "type": "nodejs",
       "status": "active",
       "data": ["data1", "data2"],
-      "image": "https://example.com/image1.png"
+      "image": "https://example.com/image1.png",
+      "version": 1001
     },
      {
       "id": "tool2",
@@ -21,7 +22,8 @@
       "type": "nodejs",
       "status": "active",
       "data": ["data1", "data2"],
-      "image": "https://example.com/image1.png"
+      "image": "https://example.com/image1.png",
+      "version": 1001
     }
   ]
 }
