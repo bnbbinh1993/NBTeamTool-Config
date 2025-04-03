@@ -5,7 +5,7 @@
       "id": "tool1",
       "name": "Tool 1",
       "url": "abc",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/test.rar",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/tool1.rar",
       "type": "nodejs",
       "status": "active",
       "data": ["data1", "data2"],
