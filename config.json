@@ -10,6 +10,16 @@
       "status": "active",
       "data": ["data1", "data2"],
       "image": "https://example.com/image1.png"
+    },
+     {
+      "id": "tool2",
+      "name": "Tool 2",
+      "dirname": "test",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/tool2.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["data1", "data2"],
+      "image": "https://example.com/image1.png"
     }
   ]
 }
