@@ -13,9 +13,9 @@
     },
      {
       "id": "tool2",
-      "name": "Tool 2",
-      "dirname": "test",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/tool2.rar",
+      "name": "Haha Wallet",
+      "dirname": "HahaWallet",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/HahaWallet.rar",
       "type": "nodejs",
       "status": "active",
       "data": ["data1", "data2"],
