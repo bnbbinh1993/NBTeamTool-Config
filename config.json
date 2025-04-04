@@ -13,6 +13,18 @@
       "data": ["data1", "data2"],
       "image": "https://example.com/image1.png",
       "version": 3000
+    },
+    {
+      "id": "tool3",
+      "name": "Blum",
+      "dirname": "Blum",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/blum.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
+      "image": "https://example.com/image1.png",
+      "version": 3000
     }
   ]
 }
