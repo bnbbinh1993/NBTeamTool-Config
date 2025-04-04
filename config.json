@@ -18,7 +18,7 @@
       "name": "Haha Wallet",
       "dirname": "HahaWallet",
       "main":"index.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/HahaWallet.rar",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/HahaWalletBot_NBTeamTool.rar",
       "type": "nodejs",
       "status": "active",
       "data": ["data1", "data2"],
