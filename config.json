@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "tools": [
+    {
+      "id": "tool1",
+      "name": "Tool 1",
+      "dirname": "test",
+      "main":"tool1.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/tool1.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["data1", "data2"],
+      "image": "https://example.com/image1.png",
+      "version": 1000
+    },
+     {
+      "id": "tool2",
+      "name": "Haha Wallet",
+      "dirname": "HahaWallet",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/HahaWallet.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["data1", "data2"],
+      "image": "https://example.com/image1.png",
+      "version": 1000
+    }
+  ]
+}
