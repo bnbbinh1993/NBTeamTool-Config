@@ -25,6 +25,18 @@
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
       "image": "https://example.com/image1.png",
       "version": 3002
+    },
+    {
+      "id": "tool4",
+      "name": "FractionAi",
+      "dirname": "FractionAi",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/FractionAi.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
+      "image": "https://example.com/image1.png",
+      "version": 1000
     }
   ]
 }
