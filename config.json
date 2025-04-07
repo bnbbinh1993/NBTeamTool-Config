@@ -49,6 +49,18 @@
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
       "image": "https://example.com/image1.png",
       "version": 1005
+    },
+    {
+      "id": "tool6",
+      "name": "Hot Wallet",
+      "dirname": "HOT",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/HOT.rar",
+      "type": "script",
+      "status": "active",
+      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
+      "image": "https://example.com/image1.png",
+      "version": 1000
     }
   ]
 }
