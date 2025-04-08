@@ -61,6 +61,18 @@
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
       "image": "https://example.com/image1.png",
       "version": 1001
+    },
+    {
+      "id": "tool7",
+      "name": "IRYS Faucet",
+      "dirname": "IRYS Faucet",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/IRYSFaucet.rar",
+      "type": "script",
+      "status": "active",
+      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
+      "image": "https://example.com/image1.png",
+      "version": 1000
     }
   ]
 }
