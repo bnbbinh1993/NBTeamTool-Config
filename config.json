@@ -65,7 +65,7 @@
     {
       "id": "tool7",
       "name": "IRYS Faucet",
-      "dirname": "IRYS Faucet",
+      "dirname": "IRYS",
       "main":"index.js",
       "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/IRYSFaucet.rar",
       "type": "script",
