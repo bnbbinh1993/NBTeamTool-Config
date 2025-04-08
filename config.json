@@ -80,7 +80,7 @@
       "name": "KiteAi Reg",
       "dirname": "KiteAi-Reg",
       "main":"reg.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/IRYSFaucet.rar",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/KiteAi-Reg.rar",
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
