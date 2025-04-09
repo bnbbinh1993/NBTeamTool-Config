@@ -102,6 +102,19 @@
     ,
     {
       "id": "tool10",
+      "name": "Lista Ref",
+      "dirname": "Lista",
+      "main":"ref.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Lista.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
+      "image": "https://example.com/image1.png",
+      "version": 1000
+    }
+    ,
+    {
+      "id": "tool11",
       "name": "Lista Task",
       "dirname": "Lista",
       "main":"main.js",
