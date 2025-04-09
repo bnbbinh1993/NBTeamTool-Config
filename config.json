@@ -75,18 +75,7 @@
       "version": 2001
     }
     ,
-    {
-      "id": "tool8",
-      "name": "KiteAi Reg",
-      "dirname": "KiteAi-Reg",
-      "main":"reg.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/KiteAi-Reg.rar",
-      "type": "nodejs",
-      "status": "active",
-      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://example.com/image1.png",
-      "version": 2000
-    },
+   
     {
       "id": "tool9",
       "name": "KiteAi Task",
