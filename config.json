@@ -23,7 +23,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 3002
     },
     {
@@ -35,7 +35,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1001
     },
     {
@@ -47,7 +47,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1005
     },
     {
@@ -59,7 +59,7 @@
       "type": "script",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1001
     },
     {
@@ -71,7 +71,7 @@
       "type": "script",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 2001
     }
     ,
@@ -85,7 +85,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1001
     }
     ,
@@ -98,7 +98,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Lưu ý: chạy ref trước khi chạy task"],
-      "image": "https://github.com/bnbbinh1993/NBTeamTool-Config/blob/main/Nbteam.png",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1000
     }
   ]
