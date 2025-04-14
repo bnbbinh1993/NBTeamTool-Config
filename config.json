@@ -101,5 +101,18 @@
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1000
     }
+    ,
+    {
+      "id": "tool11",
+      "name": "Cap",
+      "dirname": "Cap",
+      "main":"cap.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Cap.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["Lưu ý: Cần có megaETH trong ví mới có thể chạy kèo"],
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
+      "version": 1000
+    }
   ]
 }
