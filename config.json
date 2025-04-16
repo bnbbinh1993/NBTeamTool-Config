@@ -113,18 +113,6 @@
       "data": ["Lưu ý: Cần có megaETH trong ví mới có thể chạy kèo"],
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1000
-    },
-    {
-      "id": "tool12",
-      "name": "Monadscore",
-      "dirname": "Monadscore",
-      "main":"index.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Monadscore.rar",
-      "type": "nodejs",
-      "status": "active",
-      "data": ["Link kèo: https://monadscore.xyz/signup/r/VwC7PDZi"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
-      "version": 1000
     }
   ]
 }
