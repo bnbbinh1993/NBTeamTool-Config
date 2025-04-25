@@ -127,5 +127,18 @@
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
       "version": 1000
     }
+    ,
+    {
+      "id": "tool13",
+      "name": "Madness",
+      "dirname": "Madness",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Madness.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["Điền privatekey vào data là chạy thôi. LH telgram @bnb_bteam"],
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam.png",
+      "version": 1000
+    }
   ]
 }
