@@ -11,7 +11,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 3001
     },
     {
@@ -23,7 +23,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 3002
     },
     {
@@ -35,7 +35,7 @@
       "type": "nodejs",
       "status": "update",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1001
     },
     {
@@ -47,7 +47,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1005
     },
     {
@@ -59,7 +59,7 @@
       "type": "script",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1001
     },
     {
@@ -71,7 +71,7 @@
       "type": "script",
       "status": "update",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 2001
     }
     ,
@@ -85,7 +85,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1001
     }
     ,
@@ -98,7 +98,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Lưu ý: chạy ref trước khi chạy task"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1000
     }
     ,
@@ -111,7 +111,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Lưu ý: Cần có megaETH trong ví mới có thể chạy kèo"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1000
     }
     ,
@@ -124,7 +124,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Chạy bằng token nhé mọi người! Lh telegram @bnb_bteam để lấy script chạy lấy token"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1000
     }
     ,
@@ -137,7 +137,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Điền privatekey vào data là chạy thôi. LH telgram @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1000
     }
     ,
@@ -150,7 +150,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Điền địa chỉ ví (wallet not privatekey) vào data là chạy thôi. LH telgram @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.jpg",
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1002
     }
   ]
