@@ -153,5 +153,18 @@
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 1002
     }
+    ,
+    {
+      "id": "tool15",
+      "name": "TEST",
+      "dirname": "TEST",
+      "main":"index.js",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Monadscore.rar",
+      "type": "nodejs",
+      "status": "active",
+      "data": ["Điền địa chỉ ví (wallet not privatekey) vào data là chạy thôi. LH telgram @bnb_bteam"],
+      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
+      "version": 1002
+    }
   ]
 }
