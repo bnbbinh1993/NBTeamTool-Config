@@ -124,11 +124,7 @@
       "type": "nodejs",
       "status": "active",
       "data": ["Chạy bằng token nhé mọi người! Lh telegram @bnb_bteam để lấy script chạy lấy token"],
-<<<<<<< HEAD
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Nbteam2.png",
-=======
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
->>>>>>> 005996d6ad691ebe6b1342bb910ccbfa47d9c695
       "version": 1000
     }
     ,
@@ -160,15 +156,15 @@
     ,
     {
       "id": "tool15",
-      "name": "TEST",
-      "dirname": "TEST",
+      "name": "Pharos Network",
+      "dirname": "Pharos",
       "main":"index.js",
       "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Monadscore.rar",
       "type": "nodejs",
       "status": "active",
-      "data": ["Điền địa chỉ ví (wallet not privatekey) vào data là chạy thôi. LH telgram @bnb_bteam"],
+      "data": ["Hãy dùng bản mới Phanther Manager và LH ADMIN để nhận hướng dẫn. LH telgram @bnb_bteam"],
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
-      "version": 1002
+      "version": 1000
     }
   ]
 }
