@@ -155,11 +155,11 @@
     }
     ,
     {
-      "id": "tool15",
+      "id": "tool16",
       "name": "Pharos Network",
       "dirname": "Pharos",
       "main":"index.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Monadscore.rar",
+      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Pharos.rar",
       "type": "nodejs",
       "status": "active",
       "data": ["Hãy dùng bản mới Phanther Manager và LH ADMIN để nhận hướng dẫn. LH telgram @bnb_bteam"],
