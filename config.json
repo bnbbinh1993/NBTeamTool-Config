@@ -14,30 +14,7 @@
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 3001
     },
-    {
-      "id": "tool3",
-      "name": "Blum",
-      "dirname": "Blum",
-      "main":"index.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/blum.rar",
-      "type": "nodejs",
-      "status": "active",
-      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
-      "version": 3002
-    },
-    {
-      "id": "tool4",
-      "name": "FractionAi",
-      "dirname": "FractionAi",
-      "main":"index.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/FractionAi.rar",
-      "type": "nodejs",
-      "status": "end",
-      "data": ["Nếu không biết liên hệ Tele: @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
-      "version": 1002
-    },
+   
     {
       "id": "tool5",
       "name": "Coresky",
@@ -165,18 +142,6 @@
       "data": ["Hãy dùng bản mới Phanther Manager và LH ADMIN để nhận hướng dẫn. LH telgram @bnb_bteam"],
       "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
       "version": 2006
-    },
-    {
-      "id": "tool17",
-      "name": "Cess",
-      "dirname": "Cess",
-      "main":"index.js",
-      "github": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/Cess.rar",
-      "type": "nodejs",
-      "status": "active",
-      "data": ["Điền privatekey vào mà chạy thoại . LH telgram @bnb_bteam"],
-      "image": "https://raw.githubusercontent.com/bnbbinh1993/NBTeamTool-Config/main/NBTeam.png",
-      "version": 1000
     }
   ]
 }
